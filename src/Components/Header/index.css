@@ -1,0 +1,11 @@
+.Header{
+    border-bottom: 1px solid rgb(202, 202, 202) ;
+    border-top: 1px solid rgb(202, 202, 202) ;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(46, 45, 65);
+    color: white;
+}
+.Header > div{
+    margin-left: 16px;
+}
